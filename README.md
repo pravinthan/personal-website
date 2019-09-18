@@ -8,7 +8,7 @@
   </a>
 </p>
 
-Colorful one-page portfolio featuring parallax effects and animations. 
+One-page portfolio to showcase my projects, featuring parallax effects and animations. 
 
 Using the Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara).
 
