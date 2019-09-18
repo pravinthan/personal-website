@@ -4,7 +4,6 @@
   "version": "1.0.0",
   "author": "Pravinthan Prabagaran",
   "license": "MIT",
-  "starter-name": "gatsby-starter-portfolio-cara",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",

@@ -14,8 +14,8 @@ Using the Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoAr
 
 ## Learning Gatsby
 
-Full documentation for Gatsby can be found [on Gatsby's website](https://www.gatsbyjs.org/).
+If you would like to learn Gatsby, full documentation can be found [on Gatsby's website](https://www.gatsbyjs.org/).
 
 ### Themes
 
-- To learn more about Gatsby themes specifically, I recommend checking out the [theme docs](https://www.gatsbyjs.org/docs/themes/).
+To learn more about Gatsby themes specifically, I recommend checking out the [theme docs](https://www.gatsbyjs.org/docs/themes/).
