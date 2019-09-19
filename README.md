@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://pravinthan.com">
-    <img src="./static/android-chrome-192x192.png" alt="My website" />
+    <img src="./static/icon-512x512.png" alt="My website" style="width: 10%; height: 10%" />
   </a>
 </p>
 
