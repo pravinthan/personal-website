@@ -1,17 +1,23 @@
-<p style="text-align: center">
+<p align="center">
+  <a href="https://pravinthan.com">
+    <img src="./static/android-chrome-192x192.png" alt="My website" />
+  </a>
+</p>
 
-  [![My website](./static/icon-152x152.png)](https://pravinthan.com)
+<h1 align="center">
+  <a href="https://pravinthan.com">My Personal Portfolio Website</a>
+</h1>
 
-  # [My Personal Portfolio Website](href="https://pravinthan.com">)
-
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/4cde7137-dd33-4da7-9d08-f13ffe17346b/deploy-status)](https://app.netlify.com/sites/pravinthan/deploys)
+<p align="center">
+  <a href="https://app.netlify.com/sites/pravinthan/deploys">
+    <img src="https://api.netlify.com/api/v1/badges/4cde7137-dd33-4da7-9d08-f13ffe17346b/deploy-status" alt="Netlify Status" />
+  </a>
 </p>
 
 One-page portfolio website with animations and parallax effects to showcase my projects. 
 
-## Gatsby
+## Learning Gatsby
 I used Gatsby.js for its ability to generate static sites with ease. There's no runtime rendering, server-side code nor databases to deal with, which makes it extremely fast.
-
 If you would like to learn Gatsby, full documentation can be found [on Gatsby's website](https://www.gatsbyjs.org/).
 
 ### Themes
