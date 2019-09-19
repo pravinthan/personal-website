@@ -9,9 +9,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://app.netlify.com/sites/pravinthan/deploys">
-    <img src="https://api.netlify.com/api/v1/badges/88bbaef1-6f83-4894-8acd-e6512ff39265/deploy-status" alt="Netlify Status" />
-  </a>
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/4cde7137-dd33-4da7-9d08-f13ffe17346b/deploy-status)](https://app.netlify.com/sites/pravinthan/deploys)
 </p>
 
 One-page portfolio website with animations and parallax effects to showcase my projects. 
