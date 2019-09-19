@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://pravinthan.com">
-    <img alt="My website" src="./android-chrome-192x192.png" />
+    <img alt="My website" src="./static/android-chrome-192x192.png" />
   </a>
 </p>
 
@@ -16,8 +16,9 @@
 
 One-page portfolio website with animations and parallax effects to showcase my projects. 
 
-## Learning Gatsby
+## Gatsby
 I used Gatsby.js for its ability to generate static sites with ease. There's no runtime rendering, server-side code nor databases to deal with, which makes it extremely fast.
+
 If you would like to learn Gatsby, full documentation can be found [on Gatsby's website](https://www.gatsbyjs.org/).
 
 ### Themes
