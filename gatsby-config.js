@@ -34,7 +34,7 @@ module.exports = {
         short_name: "pravinthan",
         start_url: "/",
         background_color: "#141821",
-        icon: `icon-512x512.png`,
+        icon: `static/icon-512x512.png`,
         theme_color: "#f6ad55",
         display: "standalone",
       },
