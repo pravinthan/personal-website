@@ -24,7 +24,7 @@ const Hero = ({ offset }: { offset: number }) => {
           type="button"
           aria-label="Toggle dark mode"
           >
-            {isDark ? `Turn on the lights` : `Turn off the lights`}
+            {isDark ? `Light` : `Dark`}
           </button>
         </div>
       <Divider speed={0.2} offset={offset}>
