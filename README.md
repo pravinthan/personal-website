@@ -1,14 +1,9 @@
-<p align="center">
-  <a href="https://pravinthan.com">
-    <img alt="My website" src="./static/android-chrome-192x192.png" />
-  </a>
-</p>
+<p style="text-align: center">
 
-<h1 align="center">
-  <a href="https://pravinthan.com">My Personal Portfolio Website</a>
-</h1>
+  [![My website](./static/icons-152x152.png)](https://pravinthan.com)
 
-<p align="center">
+  # [My Personal Portfolio Website](href="https://pravinthan.com">)
+  
   [![Netlify Status](https://api.netlify.com/api/v1/badges/4cde7137-dd33-4da7-9d08-f13ffe17346b/deploy-status)](https://app.netlify.com/sites/pravinthan/deploys)
 </p>
 
