@@ -22,6 +22,4 @@ I used Gatsby.js for its ability to generate static sites with ease. There's no 
 If you would like to learn Gatsby, full documentation can be found [on Gatsby's website](https://www.gatsbyjs.org/).
 
 ### Themes
-
-I'm using the Gatsby Theme [`gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara).
-To learn more about Gatsby themes, check out the [theme docs](https://www.gatsbyjs.org/docs/themes/).
+I'm using the Gatsby Theme [`gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara). To learn more about Gatsby themes, check out the [theme docs](https://www.gatsbyjs.org/docs/themes/).
