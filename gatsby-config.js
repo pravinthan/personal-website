@@ -7,7 +7,9 @@ module.exports = {
     siteTitle: "Pravinthan Prabagaran",
     siteTitleAlt: "Pravinthan Prabagaran",
     author: "Pravinthan Prabagaran",
+    siteHeadline: "A collection of my projects.",
     siteDescription: "A collection of my projects.",
+    siteImage: "/icon-512x512.png",
     siteUrl: "https://pravinthan.com/",
     social: [
       {
@@ -39,6 +41,8 @@ module.exports = {
         display: "standalone",
       },
     },
+    "gatsby-plugin-sitemap",
+    "gatsby-plugin-robots-txt",
     "gatsby-plugin-offline",
     "gatsby-plugin-netlify",
     "gatsby-plugin-theme-ui"
