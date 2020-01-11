@@ -14,16 +14,21 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@emotion/core": "^10.0.27",
+    "@emotion/styled": "^10.0.27",
     "@lekoarts/gatsby-theme-cara": "^1.0.4",
-    "gatsby": "^2.13.72",
+    "gatsby": "^2.18.21",
+    "gatsby-cli": "^2.8.26",
+    "gatsby-plugin-emotion": "^4.1.21",
     "gatsby-plugin-google-analytics": "^2.1.8",
     "gatsby-plugin-manifest": "^2.2.6",
     "gatsby-plugin-netlify": "^2.1.6",
     "gatsby-plugin-offline": "^2.2.7",
     "gatsby-plugin-robots-txt": "^1.5.0",
     "gatsby-plugin-sitemap": "^2.2.14",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0"
+    "glamor": "^2.20.40",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
   },
   "devDependencies": {
     "cross-env": "^5.2.0"

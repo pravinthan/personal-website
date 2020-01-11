@@ -6,6 +6,7 @@ import Content from "../elements/content"
 import SVG from "./svg"
 import { UpDown, UpDownWide } from "../styles/animations"
 import Intro from "../sections/intro.mdx"
+import { css } from "@emotion/core"
 
 
 const Hero = ({ offset }: { offset: number }) => {
@@ -56,7 +57,28 @@ const Hero = ({ offset }: { offset: number }) => {
         <SVG icon="hexa" width={8} stroke color="icon_darker" left="80%" top="70%" />
       </Divider>
       <Content sx={{ variant: `texts.bigger` }} speed={0.4} offset={offset}>
-        <Inner>
+        <Inner css={css`
+            .name {
+              font-size: 3.75rem;
+              font-weight: bolder;
+              word-wrap: break-word;
+            }
+            @media (max-width: 440px) {
+              .name {
+                font-size: 3.25rem;
+              }
+            }
+            @media (max-width: 355px) {
+              .name {
+                font-size: 3rem;
+              }
+            }
+            @media (max-width: 330px) {
+              .name {
+                font-size: 2.75rem;
+              }
+            }
+          `}>
           <Intro />
         </Inner>
       </Content>

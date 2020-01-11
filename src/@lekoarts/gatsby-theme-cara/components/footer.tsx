@@ -1,12 +1,8 @@
 /** @jsx jsx */
-import { Footer as ThemeFooter, jsx } from "theme-ui"
+import { Footer as ThemeFooter, jsx } from "theme-ui";
 
 const Footer = () => {
-  return (
-    <ThemeFooter>
-      Copyright &copy; {new Date().getFullYear()}. All rights reserved.
-    </ThemeFooter>
-  )
-}
+  return <ThemeFooter></ThemeFooter>;
+};
 
-export default Footer
+export default Footer;
