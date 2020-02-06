@@ -32,11 +32,11 @@ module.exports = {
     {
       resolve: "gatsby-plugin-manifest",
       options: {
-        name: "pravinthan-personal-website",
-        short_name: "pravinthan",
+        name: "Pravinthan's Portfolio",
+        short_name: "Pravinthan",
         start_url: "/",
         background_color: "#141821",
-        icon: `static/favicon.ico`,
+        icon: `static/android-chrome-512x512.png`,
         theme_color: "#f6ad55",
         display: "standalone"
       }
