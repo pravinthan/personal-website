@@ -15,6 +15,3 @@
 </p>
 
 One-page portfolio website with animations and parallax effects to showcase my projects. 
-
-## Gatsby
-I used [Gatsby.js](https://www.gatsbyjs.org/) for its ability to generate static sites with ease. There's no runtime rendering nor server-side code to deal with, which makes it extremely fast.
