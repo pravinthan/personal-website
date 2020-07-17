@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://pravinthan.com">
-    <img src="./static/icon-512x512.png" alt="My website" width="10%" height="10%" />
+    <img src="./static/favicon.png" alt="My website" width="10%" height="10%" />
   </a>
 </p>
 

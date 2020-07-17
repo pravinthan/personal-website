@@ -9,7 +9,7 @@ module.exports = {
     author: "Pravinthan Prabagaran",
     siteHeadline: "A collection of my projects.",
     siteDescription: "A collection of my projects.",
-    siteImage: "/icon-512x512.png",
+    siteImage: "/favicon.png",
     siteUrl: "https://pravinthan.com/",
     social: [
       {
@@ -36,7 +36,7 @@ module.exports = {
         short_name: "Pravinthan",
         start_url: "/",
         background_color: "#141821",
-        icon: `static/android-chrome-512x512.png`,
+        icon: `static/favicon.png`,
         theme_color: "#f6ad55",
         display: "standalone"
       }
