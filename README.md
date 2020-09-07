@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <a href="https://pravinthan.com">My Personal Portfolio Website</a>
+  <a href="https://pravinthan.com">My Portfolio</a>
 </h1>
 
 <p align="center">
