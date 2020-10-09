@@ -14,4 +14,4 @@
   </a>
 </p>
 
-One-page portfolio website with animations and parallax effects to showcase my projects. 
+Static portfolio website with animations and parallax effects to showcase my projects. 
