@@ -1,33 +1,16 @@
 /** @jsx jsx */
-import { useColorMode, jsx } from "theme-ui"
+import { css } from "@emotion/core"
+import { jsx } from "theme-ui"
+import Content from "../elements/content"
 import Divider from "../elements/divider"
 import Inner from "../elements/inner"
-import Content from "../elements/content"
-import SVG from "./svg"
-import { UpDown, UpDownWide } from "../styles/animations"
 import Intro from "../sections/intro.mdx"
-import { css } from "@emotion/core"
-
+import { UpDown, UpDownWide } from "../styles/animations"
+import SVG from "./svg"
 
 const Hero = ({ offset }: { offset: number }) => {
-  const [colorMode, setColorMode] = useColorMode()
-  const isDark = colorMode === `dark`
-  const toggleColorMode = (e: any) => {
-    setColorMode(isDark ? `light` : `dark`)
-  }
-
   return (
     <div>
-        <div>
-          <button
-          sx={{ variant: `buttons.toggle`, fontWeight: `semibold`, display: `block`, mx: `auto`, mb: "auto" }}
-          onClick={toggleColorMode}
-          type="button"
-          aria-label="Toggle dark mode"
-          >
-            {isDark ? `Light` : `Dark`}
-          </button>
-        </div>
       <Divider speed={0.2} offset={offset}>
         <UpDown>
           <SVG icon="triangle" hiddenMobile width={48} stroke color="icon_orange" left="10%" top="20%" />
