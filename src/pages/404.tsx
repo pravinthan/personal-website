@@ -1,3 +1,4 @@
+import * as React from "react";
 import { HeadFC, Link, PageProps } from "gatsby";
 import { Parallax } from "@react-spring/parallax";
 import { Themed } from "@theme-ui/mdx";
