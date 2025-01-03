@@ -14,23 +14,23 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@emotion/core": "^10.0.28",
-    "@emotion/styled": "^10.0.27",
-    "@lekoarts/gatsby-theme-cara": "^1.1.7",
-    "gatsby": "^2.20.25",
-    "gatsby-cli": "^2.11.11",
-    "gatsby-plugin-emotion": "^4.2.2",
-    "gatsby-plugin-google-analytics": "^2.2.4",
-    "gatsby-plugin-manifest": "^2.3.5",
-    "gatsby-plugin-netlify": "^2.2.3",
-    "gatsby-plugin-offline": "^2.2.7",
-    "gatsby-plugin-robots-txt": "^1.5.0",
-    "gatsby-plugin-sitemap": "^2.3.4",
-    "glamor": "^2.20.40",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "@emotion/core": "10.0.28",
+    "@emotion/styled": "10.0.27",
+    "@lekoarts/gatsby-theme-cara": "1.1.7",
+    "gatsby": "2.20.25",
+    "gatsby-cli": "2.11.11",
+    "gatsby-plugin-emotion": "4.2.2",
+    "gatsby-plugin-google-analytics": "2.2.4",
+    "gatsby-plugin-manifest": "2.3.5",
+    "gatsby-plugin-netlify": "2.2.3",
+    "gatsby-plugin-offline": "2.2.7",
+    "gatsby-plugin-robots-txt": "1.5.0",
+    "gatsby-plugin-sitemap": "2.3.4",
+    "glamor": "2.20.40",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
   },
   "devDependencies": {
-    "cross-env": "^5.2.0"
+    "cross-env": "5.2.0"
   }
 }
